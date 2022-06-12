@@ -1,0 +1,10 @@
+#bspdi_cuwe_output {
+    clear: both;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#bspdi_cuwe_output > p {
+    width: 50%;
+    border: 1px solid black;
+}
