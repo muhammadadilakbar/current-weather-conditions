@@ -9,11 +9,13 @@ A wordpress plugin which fetches current weather conditions from AccuWeather API
 ## Usage
 
 1. Go to 'Current Weather' menu.
-2. Enter your `AccuWeather API Key`.
-3. Enter a city name.
-4. Select the city name.
+2. Enter your `AccuWeather API Key`. Press the submit button.
+3. Enter a city name. Select the city name from the list.
 5. Press the submit button.
 6. Use the shortcode `[current_weather_conditions]`
 
 ## Screenshots
 
+![img](https://github.com/muhammadadilakbar/current-weather-conditions/blob/32c5e0abccb7293d89564bad252023b59edbcafc/Screenshot%201.png)
+
+![img](https://github.com/muhammadadilakbar/current-weather-conditions/blob/32c5e0abccb7293d89564bad252023b59edbcafc/Screenshot%202.png)
