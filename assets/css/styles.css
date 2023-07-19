@@ -10,11 +10,9 @@
 
 #bspdi_cuwe_output > div {
     width: 40%;
-    padding-block-start: 1rem;
-    padding-block-end: 1rem;
+    padding-block-start: 0.5rem;
+    padding-block-end: 0.5rem;
+    margin-block-start: 0.5rem;
+    margin-block-end: 0.5rem;
     border-bottom: 1px solid black;   
-}
-
-#bspdi_cuwe_output > div:last-child {
-    border-bottom: none;
 }
