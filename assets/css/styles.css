@@ -2,9 +2,19 @@
     clear: both;
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-around;
+    border: 1px solid black;
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
 }
 
-#bspdi_cuwe_output > p {
-    width: 50%;
-    border: 1px solid black;
+#bspdi_cuwe_output > div {
+    width: 40%;
+    padding-block-start: 1rem;
+    padding-block-end: 1rem;
+    border-bottom: 1px solid black;   
+}
+
+#bspdi_cuwe_output > div:last-child {
+    border-bottom: none;
 }

@@ -24,7 +24,7 @@ jQuery( document ).ready( function($)
             output = output + "Pressure: " + data[0].Pressure.Metric.Value + "mb <br />";
             output = output + "Wet Bulb Temperature: " + data[0].WetBulbTemperature.Metric.Value + "C <br />";
             //link
-            $( "#bspdi_cuwe_output" ).append( "<p>" + output + "</p>" );
+            $( "#bspdi_cuwe_output" ).append( "<div>" + output + "</div>" );
           }
       } );
     }
