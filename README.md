@@ -19,3 +19,5 @@ A wordpress plugin which fetches current weather conditions from AccuWeather API
 ![img](https://github.com/muhammadadilakbar/current-weather-conditions/blob/32c5e0abccb7293d89564bad252023b59edbcafc/Screenshot%201.png)
 
 ![img](https://github.com/muhammadadilakbar/current-weather-conditions/blob/32c5e0abccb7293d89564bad252023b59edbcafc/Screenshot%202.png)
+
+![img](https://github.com/muhammadadilakbar/current-weather-conditions/blob/00b562b5e6e1f20b6cb5f019b80c855bbd7e0017/Screenshot%203.png)
